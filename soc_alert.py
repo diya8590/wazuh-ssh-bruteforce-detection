@@ -8,8 +8,8 @@ from datetime import datetime
 
 # ---------------------------
 
-TELEGRAM_TOKEN = "8656525474:AAEANKCcaBUBPRzRqbTCBYVA03rzdkiWc5Y"
-CHAT_ID = 1503027556
+TELEGRAM_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+CHAT_ID = "YOUR_CHAT_ID"
 ALERTS_FILE = "/var/ossec/logs/alerts/alerts.json"
 
 # --------------------------
