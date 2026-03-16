@@ -5,9 +5,9 @@ from datetime import datetime
 
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-EMAIL_USER = "socalert687@gmail.com"
-EMAIL_PASS = "kwshpmbnctkfrffa"
-EMAIL_TO = "socalert687@gmail.com"
+EMAIL_USER = "YOUR_EMAIL"
+EMAIL_PASS = "YOUR_EMAIL_PASSWORD"
+EMAIL_TO = "EMAIL_ALERT_TO_GET"
 
 ALERT_FILE = "/var/ossec/logs/alerts/alerts.json"
 
